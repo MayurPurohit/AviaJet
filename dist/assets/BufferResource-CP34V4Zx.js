@@ -1,4 +1,4 @@
-import{w as U,f as g,h as c,u as S,B as _,i as m,E as I,j as p}from"./PlaneManager-CVUnpbLy.js";const x={name:"local-uniform-bit",vertex:{header:`
+import{w as U,f as g,h as c,u as S,B as _,i as m,E as I,j as p}from"./PlaneManager-HgBQlP61.js";const x={name:"local-uniform-bit",vertex:{header:`
 
             struct LocalUniforms {
                 uTransformMatrix:mat3x3<f32>,
